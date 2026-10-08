@@ -1,0 +1,12 @@
+# Publish only the contents of jupyter/ ; ignore everything else at the root
+/*
+!/.gitignore
+!/jupyter/
+
+# Inside jupyter/: never publish secrets or noise
+*.env
+.env*
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store

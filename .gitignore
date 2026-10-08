@@ -3,7 +3,7 @@
 !/.gitignore
 !/public/
 
-# Inside jupyter/: never publish secrets or noise
+# Inside public/: never publish secrets or noise
 *.env
 .env*
 .ipynb_checkpoints/

@@ -1,7 +1,7 @@
 # Publish only the contents of jupyter/ ; ignore everything else at the root
 /*
 !/.gitignore
-!/jupyter/
+!/public/
 
 # Inside jupyter/: never publish secrets or noise
 *.env

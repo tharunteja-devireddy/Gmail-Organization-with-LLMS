@@ -21,11 +21,11 @@ read, moving them to folders, or deleting them based on your preferences.
 ## Installation & usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tharuntejad/Gmail-Organization-with-LLMS
+   git clone https://github.com/tharunteja-devireddy/Gmail-Organization-with-LLMS
    cd gmail-email-management
    ```
 
-2. View main.ipynb file for step by step instructions to run the code.
+2. View public/main.ipynb file for step by step instructions to run the code.
 
 3. The application will fetch emails, categorize them, and perform the specified actions. Logs and metrics will be displayed in the console.
 
